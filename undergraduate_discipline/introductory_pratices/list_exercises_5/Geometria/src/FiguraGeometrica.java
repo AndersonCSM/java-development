@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
-public class FiguraGeometrica {
+public abstract class FiguraGeometrica {
+    public abstract void descricao();
 }

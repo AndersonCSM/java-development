@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
-
-public class Quadrado {
+public class Quadrado extends FiguraGeometrica{
+    public void descricao(){
+        System.out.println("Quadrado");
+    }
 }

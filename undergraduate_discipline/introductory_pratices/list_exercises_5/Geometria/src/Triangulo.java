@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
-
-public class Triangulo {
+public class Triangulo extends FiguraGeometrica{
+    public void descricao(){
+        System.out.println("Triangulo");
+    }
 }
