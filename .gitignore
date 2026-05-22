@@ -1,2 +1,63 @@
 
-DIO-Bootcamp-backend-Java/collections-java/.idea/uiDesigner.xml
+# Java compilation
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+*.swp
+*.swo
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# Maven
+target/
+*.pom.xml.tag
+*.pom.xml.releaseBackup
+pom.xml.versionsBackup
+
+# Gradle
+.gradle/
+build/
+*.gradle.bak
+.gradletasknamecache
+
+# NetBeans
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# OS-specific
+.DS_Store
+Thumbs.db
+*.log
+
+# Build artifacts
+*.o
+*.so
+*.dylib
+
+# IDE temp files
+*.bak
+*~
+.project
+.pydevproject
+.cproject
