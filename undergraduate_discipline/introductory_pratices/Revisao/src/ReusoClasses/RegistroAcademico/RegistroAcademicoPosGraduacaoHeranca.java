@@ -1,4 +1,4 @@
-package ReusoClasses;
+package ReusoClasses.RegistroAcademico;
 
 public class RegistroAcademicoPosGraduacaoHeranca extends RegistroAcademico{
     private String tituloTese;

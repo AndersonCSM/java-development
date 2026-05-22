@@ -1,5 +1,3 @@
-import java.util.Locale;
-
 public class Administrativo extends Assistente{
     private String turno;
     private final int ADICIONALNOTURNO = 100;
@@ -22,7 +20,7 @@ public class Administrativo extends Assistente{
     @Override
     public String toString(){
         return super.toString()+
-                " Adicional: "+(turno.equals("N")?ADICIONALNOTURNO:"não")
+                " Adicional: "+(turno.equals("S")?ADICIONALNOTURNO:"não")
                 + " }";
     }
 

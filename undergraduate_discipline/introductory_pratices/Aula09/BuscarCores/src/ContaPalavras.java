@@ -25,7 +25,7 @@ public class ContaPalavras {
 
             if (mapa.containsKey(palavraMin)){
                 int qtd = mapa.get(palavraMin);
-                mapa.put(palavraMin, qtd++);
+                mapa.put(palavraMin, qtd +1); // ++ por + 1
             }
             else {
                 mapa.put(palavraMin, 1);

@@ -1,3 +1,5 @@
+package ArraysArrayLists;
+
 public class MediaValores {
     public static void main(String[] args) {
         double m1, m2, m3;

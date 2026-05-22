@@ -1,3 +1,5 @@
+package ArraysArrayLists;
+
 public class TermosSerie {
     public static void main(String[] args) {
         final int qtdNumeros = 1000000;

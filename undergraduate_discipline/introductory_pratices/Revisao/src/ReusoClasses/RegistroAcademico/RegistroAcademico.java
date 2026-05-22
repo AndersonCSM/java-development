@@ -1,4 +1,4 @@
-package ReusoClasses;
+package ReusoClasses.RegistroAcademico;
 
 public class RegistroAcademico {
     private String nomeDoAluno;

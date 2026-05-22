@@ -2,9 +2,8 @@ package ColecoesGenericas;
 
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Iterator;
 
-public class ArrayListString {
+public class ArrayListCor {
     public static void main(String[] args) {
         ArrayList<String> lista = new ArrayList<>();
 
